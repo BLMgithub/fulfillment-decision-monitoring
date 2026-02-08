@@ -1,9 +1,10 @@
 # =============================================================================
-# SELLER FULFILLMENT FACT TABLE
+# Assemble Validated Event Data
 # =============================================================================
-# - Derive core, repeatable fulfillment metrics
-# - Standardize time, calendar, and seller activity
-# - Output: Clean fact data for analysis and dashboards
+# - Combine only CI-validated raw datasets into a unified event-level dataset
+# - Enforce explicit join paths, keys, and cardinality assumptions
+# - Preserve event grain and temporal semantics during assembly
+# - Produce a deterministic, audit-ready event dataset for fact derivation
 
 
 
