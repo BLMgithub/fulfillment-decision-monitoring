@@ -120,17 +120,17 @@ This architecture serves the Presentation Layer with high reliability, ensuring 
 ### Customer Experience & Revenue Exposure
 Monitors financial risk by correlating delivery delays with buyer drop-off rates, allowing leadership to quantify the "cost of friction."
 
-![Customer Experince Image](assets/screenshots/customer-experience-monitor.png)
+![Customer Experince Image](assets/gif/customer_experience_exposure_demo.gif)
 
 ### Fulfillment Decision Monitor
 An operational early-warning system focusing on statistical deviations in network speed rather than total failure to identify partners requiring intervention.
 
-![Fulfillment Decision Monitor](assets/screenshots/seller-fulfillment-monitor.png)
+![Fulfillment Decision Monitor](assets/gif/fulfillment_decision_monitor_demo.gif)
 
 ### Product Friction Monitor
 Identifies structural fulfillment bottlenecks driven by product specifications (e.g., weight outliers) to route items to specialized freight.
 
-![Product Friction Monitor](assets/screenshots/product-friction-monitor.png)
+![Product Friction Monitor](assets/gif/product_friction_monitor_demo.gif)
 
 ## CI/CD & Security
 
